@@ -1,0 +1,14 @@
+# Blocked Domains and IPs
+# One entry per line, # for comments
+# Supports exact domain matching and wildcard subdomain matching (*.example.com)
+
+# Example blocked domains
+example.com
+badsite.org
+
+# Example blocked IP
+# 192.0.2.5
+
+# Wildcard subdomain matching (blocks all subdomains)
+# *.malicious.com
+
