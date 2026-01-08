@@ -17,6 +17,9 @@ A user-space HTTP proxy server written in Go that provides rule-based filtering,
 - **Response Caching**: LRU cache for HTTP responses (optional)
 - **Authentication**: Token-based authentication (optional)
 
+### Video Demo
+https://github.com/user-attachments/assets/262de385-f915-48a4-ac65-f564ba2903ef
+
 ## Project Structure
 
 ```
